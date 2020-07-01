@@ -114,10 +114,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Settings\AllowYourAc
 - 7-Zip
 - ImageGlass
 - KeePass
-- FireFox (Add-ons see that other list)
+- FireFox 
 - Notepad++
-- VLC Meida Player
-- Maybe a copy of Proccess Explorer and even ffmpeg binaries somewhere
+- VLC Media Player
+- Add-ons and all other software see [My Open Source Software List](https://github.com/GerRudi/My-favourite-open-source-software)
 
 
 
