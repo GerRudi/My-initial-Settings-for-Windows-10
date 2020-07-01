@@ -40,15 +40,16 @@ Folder Options -> General:
 
 # Group policies (gpedit.msc)
 
-- **Computer Configuration -> Administrative Templates -> Windows Components -> Search**
+### Computer Configuration -> Administrative Templates -> Windows Components -> Search
+
 Allow Cortana: Disabled
 
-- **Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds**
+- **Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds
 Allow device name to be sent in Windows diagnostic data: Disabled
 Allow Telemetry: Disabled
 
 
-- **Computer Configuration -> Administrative Templates -> System**
+### Computer Configuration -> Administrative Templates -> System
 
 Display Shutdown Event Tracker: Enabled (Always)
 
@@ -56,18 +57,18 @@ Display Shutdown Event Tracker: Enabled (Always)
 
 
 
-- **Computer Configuration -> Administrative Templates -> System -> User Profiles**
+### Computer Configuration -> Administrative Templates -> System -> User Profiles
 
 Turn off the advertising ID: Enabled
 
 
-- **Computer Configuration -> Administrative Templates -> Windows Components -> Cloud Content**
+### Computer Configuration -> Administrative Templates -> Windows Components -> Cloud Content
 Do not show Windwos tips: Enabled
 Turn off Microsoft consumer experiences: Enabled
 
 -> Fuck off Candy Crush and friends
 
-- ** User Configuration -> Start Menu and Taskbar**
+### User Configuration -> Start Menu and Taskbar**
 Do not keep history of recently opened documents: Enabled
 
 
