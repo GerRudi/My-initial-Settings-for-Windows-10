@@ -19,9 +19,22 @@ Save this file on your Installation media in the "source" folder.
 
 
 # Inital Setup
-Mute Cortana that is scaring the hell out of you, obviously use an offline account and say no to drugs and tailored ads. 
+Mute Cortana that is suddenly screaming at you, obviously use an offline account and say no to drugs and tailored ads. 
 
 # Windows Settings
+
+## Explorer Settings
+
+Folder Options -> General: 
+- Open File Explorer to: **This PC**
+- Untick Show recently / frequently used files / folders...
+
+Folder Options -> General: 
+- Untick "Hide extensions for known file types"
+- Untick "Show sync provieder notifications"
+ -Tick "Use check boxes to select items)
+- If required, Tick "Show hidden files" and untick "Hide protected files" thingy.
+
 
 # Group policies
 
