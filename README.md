@@ -44,7 +44,7 @@ Folder Options -> General:
 
 Allow Cortana: Disabled
 
-- **Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds
+### Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds
 Allow device name to be sent in Windows diagnostic data: Disabled
 Allow Telemetry: Disabled
 
