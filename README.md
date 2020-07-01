@@ -37,19 +37,25 @@ Folder Options -> General:
 
 
 # Group policies (gpedit.msc)
-**Administrative Templates -> System**
+- **Administrative Templates -> System**
+
 Display Shutdown Event Tracker: Enabled (Always)
+
 -> Ever accidently clicked restart instead of shutdown or vice versa? Now you have a dialog to select a reason that gives you a chance to re-think. 
 
 
 
-**Administrative Templates -> System -> User Profiles**
+- **Administrative Templates -> System -> User Profiles**
+
 Turn off the advertising ID: Enabled
 
 
-**Administrative Templates -> Windows Components -> Cloud Content**
+- **Administrative Templates -> Windows Components -> Cloud Content**
+
 Turn off Microsoft consumer experiences: Enabled
+
 -> Fuck off Candy Crush and friends
+
 
 # Registry Settings
 
