@@ -95,7 +95,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Settings\AllowYourAc
 
 
 **Windows Settings -> Personalization -> Taskbar**
-Use small taskbar buttons: On
+- Use small taskbar buttons: On
 
 **Windows Settings -> Privacy -> Diagnostics & feedback**
 - Disable whatever's enabled
@@ -106,7 +106,7 @@ Use small taskbar buttons: On
 
 # Essential Software
 - 7-Zip
-- ImageGlass as
+- ImageGlass
 - KeePass
 - FireFox (Add-ons see that other list)
 - Notepad++
