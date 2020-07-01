@@ -37,7 +37,16 @@ Folder Options -> General:
 
 
 # Group policies (gpedit.msc)
-- **Administrative Templates -> System**
+
+- **Computer Configuration -> Administrative Templates -> Windows Components -> Search**
+Allow Cortana: Disabled
+
+- **Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds**
+Allow device name to be sent in Windows diagnostic data: Disabled
+Allow Telemetry: Disabled
+
+
+- **Computer Configuration -> Administrative Templates -> System**
 
 Display Shutdown Event Tracker: Enabled (Always)
 
@@ -45,18 +54,31 @@ Display Shutdown Event Tracker: Enabled (Always)
 
 
 
-- **Administrative Templates -> System -> User Profiles**
+- **Computer Configuration -> Administrative Templates -> System -> User Profiles**
 
 Turn off the advertising ID: Enabled
 
 
-- **Administrative Templates -> Windows Components -> Cloud Content**
-
+- **Computer Configuration -> Administrative Templates -> Windows Components -> Cloud Content**
+Do not show Windwos tips: Enabled
 Turn off Microsoft consumer experiences: Enabled
 
 -> Fuck off Candy Crush and friends
 
+- ** User Configuration -> Start Menu and Taskbar**
+Do not keep history of recently opened documents: Enabled
+
 
 # Registry Settings
+
+This setting greys out the option to link your account to a Microsoft account. I hope this also blocks Microsoft doing that by itself when using a MS App with an MS account...
+``` 
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Settings\AllowYourAccount
+``` 
+
+**DWORD: value = 0**
+
+
+
 
 # Other cleanup
