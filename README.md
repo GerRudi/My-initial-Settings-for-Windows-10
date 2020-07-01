@@ -1,5 +1,5 @@
 # My-initial-Settings-for-Windows-10
-The first things I do and block when reinstalling Windows 10 - mainly as a reminder for myself. 
+The first things I do and block when reinstalling Windows 10 - mainly intended as a reminder for myself. 
 
 
 # Before the Installation
@@ -36,7 +36,20 @@ Folder Options -> General:
 - If required, Tick "Show hidden files" and untick "Hide protected files" thingy.
 
 
-# Group policies
+# Group policies (gpedit.msc)
+**Administrative Templates -> System**
+Display Shutdown Event Tracker: Enabled (Always)
+-> Ever accidently clicked restart instead of shutdown or vice versa? Now you have a dialog to select a reason that gives you a chance to re-think. 
+
+
+
+**Administrative Templates -> System -> User Profiles**
+Turn off the advertising ID: Enabled
+
+
+**Administrative Templates -> Windows Components -> Cloud Content**
+Turn off Microsoft consumer experiences: Enabled
+-> Fuck off Candy Crush and friends
 
 # Registry Settings
 
