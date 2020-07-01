@@ -1,6 +1,8 @@
 # My-initial-Settings-for-Windows-10
 The first things I do and block when reinstalling Windows 10 - mainly intended as a reminder for myself. 
 
+Maybe one day I'll make a file to double click that does all this. 
+
 
 # Before the Installation
 If the device came pre-installed with Windows 10 Home and you want to re-install it with Windows 10 Pro, chances are your Device is activated using a digital license with a key somehow stored in the UEFI firmware by the OEM. 
@@ -79,6 +81,38 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Settings\AllowYourAc
 **DWORD: value = 0**
 
 
+# Other settings
+**Windows Settings -> Personalization -> Colors**
+- Choose your color: Dark
+- Transparency effects: Off
+
+**Windows Settings -> Personalization -> Lockscreen**
+- Get fun facts, tips, tricks, and more on your locks screen: Off - cause you're not the funny guy
+- Remove all apps showing status on the lock screen
+
+**Windows Settings -> Personalization -> Start**
+- Show suggestions occasionally in Start:  Off
 
 
-# Other cleanup
+**Windows Settings -> Personalization -> Taskbar**
+Use small taskbar buttons: On
+
+**Windows Settings -> Privacy -> Diagnostics & feedback**
+- Disable whatever's enabled
+
+**Windows Settings -> Privacy -> Activity history**
+- Keep enabled if you want, but DISABLE "Send my activity history to Microsoft"
+
+
+# Essential Software
+- 7-Zip
+- ImageGlass as
+- KeePass
+- FireFox (Add-ons see that other list)
+- Notepad++
+- VLC Meida Player
+- Maybe a copy of Proccess Explorer and even ffmpeg binaries somewhere
+
+
+
+
