@@ -34,7 +34,7 @@ Folder Options -> General:
 Folder Options -> General: 
 - Untick "Hide extensions for known file types"
 - Untick "Show sync provieder notifications"
- -Tick "Use check boxes to select items)
+- Tick "Use check boxes to select items)
 - If required, Tick "Show hidden files" and untick "Hide protected files" thingy.
 
 
@@ -45,7 +45,9 @@ Folder Options -> General:
 Allow Cortana: Disabled
 
 ### Computer Configuration -> Administrative Templates -> Windows Components -> Data Collection and Preview Builds
+
 Allow device name to be sent in Windows diagnostic data: Disabled
+
 Allow Telemetry: Disabled
 
 
@@ -63,12 +65,15 @@ Turn off the advertising ID: Enabled
 
 
 ### Computer Configuration -> Administrative Templates -> Windows Components -> Cloud Content
+
 Do not show Windwos tips: Enabled
+
 Turn off Microsoft consumer experiences: Enabled
 
 -> Fuck off Candy Crush and friends
 
 ### User Configuration -> Start Menu and Taskbar**
+
 Do not keep history of recently opened documents: Enabled
 
 
