@@ -3,6 +3,7 @@ The first things I do and block when reinstalling Windows 10 - mainly intended a
 
 Maybe one day I'll make a file that I can double click that will do all these things automatically.
 
+A work in progress.
 
 # Before the Installation
 If the device came pre-installed with Windows 10 Home and you want to re-install it with Windows 10 Pro, chances are your Device is activated with a digital license and a key somehow stored in the UEFI firmware by the OEM. 
